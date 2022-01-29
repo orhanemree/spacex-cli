@@ -9,7 +9,7 @@ npm i -g @orhanemree/spacex-cli
 ```
 
 ## 🔎 Usage
-* Open your favorite terminal end run command:
+* Open your favorite terminal and run command:
 
 ```
 spacex <route> <query> <option> <filename>
@@ -31,4 +31,4 @@ Filename: saves response as json file.
 * Node
 
 ## 📃 License
-* This project licensed under the [Apache License 2.0](https://github.co**m/orhanemree/spacex-cli/blob/master/LICENSE).
+* This project licensed under the [Apache License 2.0](https://github.com/orhanemree/spacex-cli/blob/master/LICENSE).
