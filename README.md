@@ -28,7 +28,9 @@ Filename: saves response as json file.
 * Visit [SpaceX-API Docs](https://github.com/r-spacex/SpaceX-API/blob/master/docs/README.md)  for more. 
 
 ## 🔎 Examples
-``$ spacex capsules water_landings=2 limit=2``
+```
+$ spacex capsules water_landings=2 limit=2
+```
 
 ### Result:
 
@@ -60,7 +62,9 @@ Filename: saves response as json file.
 ```
 --- 
 
-``$ spacex crew agency=ESA``
+```
+$ spacex crew agency=ESA
+```
 
 ### Result:
 

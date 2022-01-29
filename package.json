@@ -1,6 +1,6 @@
 {
   "name": "@orhanemree/spacex-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI tool for SpaceX-API",
   "main": "index.js",
   "type": "module",
