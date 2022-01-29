@@ -1,0 +1,30 @@
+{
+  "name": "spacex-cli",
+  "version": "1.0.2",
+  "description": "CLI tool for SpaceX-API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "spacex": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "spaceX",
+    "cli",
+    "api"
+  ],
+  "author": "orhanemree",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
