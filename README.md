@@ -1,5 +1,5 @@
-# SpaceX CLI
-🚀 CLI tool for [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+# 🚀 SpaceX CLI
+CLI tool for [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
 
 Auth required: ``False``
 
