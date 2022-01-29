@@ -32,7 +32,7 @@ Filename: saves response as json file.
 
 ### Result:
 
-```json
+```
 [
   {
     reuse_count: 1,
@@ -64,7 +64,7 @@ Filename: saves response as json file.
 
 ### Result:
 
-```json
+```
 [
   {
     name: 'Thomas Pesquet',
